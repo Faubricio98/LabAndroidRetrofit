@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="app_name">LabAndroidRetrofit</string>
+    <string name="main_title">Países con casos confirmados de COVID-19</string>
+</resources>
